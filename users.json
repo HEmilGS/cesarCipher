@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Emil",
+    "password": "Vro",
+    "encryptedPassword": "Yur"
+  },
+  {
+    "name": "Parxel",
+    "password": "Pssilla",
+    "encryptedPassword": "Svvlood"
+  },
+  {
+    "name": "DanielBrMz",
+    "password": "BrMz",
+    "encryptedPassword": "EuPc"
+  },
+  {
+    "name": "nombre",
+    "password": "Contrase;a",
+    "encryptedPassword": "Frqwudvh;d"
+  },
+  {
+    "name": "Emill",
+    "password": "Vroo",
+    "encryptedPassword": "Yurr"
+  },
+  {
+    "name": "nombree",
+    "password": "sii",
+    "encryptedPassword": "vll"
+  },
+  {
+    "name": "nombreNuevo",
+    "password": "Contra",
+    "encryptedPassword": "Frqwud"
+  }
+]
